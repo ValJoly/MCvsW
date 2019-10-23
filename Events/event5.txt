@@ -1,0 +1,20 @@
+Titre:RAT
+Description_Event:Vous arrivez devant un rat qui semble "garder" un coffre
+
+Choix1_Titre:Attaquer le rat pour recuperer le coffre
+Choix1_Alimentation:0
+Choix1_Vie:-1
+Choix1_Epuisement:0
+Choix1_Peur:0
+Choix1_Time:1
+Choix1_Loot:NULL
+Choix1_Next:Rat/RatA.txt
+
+Choix2_Titre:Fuir
+Choix2_Alimentation:0
+Choix2_Vie:0
+Choix2_Epuisement:1
+Choix2_Peur:1
+Choix2_Time:1
+Choix2_Loot:NULL
+Choix2_Next:NULL

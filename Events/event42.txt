@@ -1,0 +1,20 @@
+Titre:It's a wolf...
+Description_Event:"C'est un loup...euh, non... c'est deux loups, ils sont dans une voiture. Ils rentrent dans un parking et un des deux dit "On se gare ou ?". Vous pensez a cette blague et en riez. Ce moment de plaisir, mais d'inattention...vous coute la vie...
+
+Choix1_Titre:C'est pas faux !
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:0
+Choix1_Peur:50
+Choix1_Time:0
+Choix1_Loot:NULL
+Choix1_Next:NULL
+
+Choix2_Titre:Kamoulox !
+Choix2_Alimentation:0
+Choix2_Vie:0
+Choix2_Epuisement:0
+Choix2_Peur:50
+Choix2_Time:0
+Choix2_Loot:NULL
+Choix2_Next:NULL

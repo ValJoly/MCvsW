@@ -1,0 +1,20 @@
+Titre:Sables mouvants
+Description_Event:Il faut traverser cette etendue, a vous de decider comment.
+
+Choix1_Titre:Utiliser les arbres.
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:3
+Choix1_Peur:1
+Choix1_Time:3
+Choix1_Loot:NULL
+Choix1_Next:NULL
+
+Choix2_Titre:Se servir d'une branche pour faire un saut a la perche.
+Choix2_Alimentation:0
+Choix2_Vie:0
+Choix2_Epuisement:2
+Choix2_Peur:-1
+Choix2_Time:0
+Choix2_Loot:NULL
+Choix2_Next:Sable/eventMortSable.txt

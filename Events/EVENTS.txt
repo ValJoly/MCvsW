@@ -1,0 +1,64 @@
+0:Crash avion -> eventDebutDeLaventure
+1:Ville ruine -> eventMaison
+2:Plante etrange
+3:Falaise_descente_demi-tour
+4:Cascade -> eventCascade -> GrotteAlimentation
+5:RAT
+6:Perdu..._debut grotte_fear
+7:Chaleur
+8:Bruit_Gauche_debut
+9:Bruit_Droit_debut
+10:Bruit_derriere
+11:Pasteque
+12:Baie_violette
+13:Pluie_simple
+14:Pause?_debut Dream
+15:Crique_simple
+16:Serpent -> eventMortSerpent
+17:Nuit_normal
+18:Nuit -> eventMortNuit
+19:Sac -> eventSac
+20:Arbre fruité_si ramasser -> eventFruit
+21:Sables mouvants
+22:Camp_simple
+23:Maladie_douleur ventre
+24:Faim
+25:Arbre_si frapper -> eventFruitInconnue
+26:Repos_etendue d'eau
+27:Troupeau_mouton -> eventTroupeau
+28:Marecage_simple
+29:Insecte_dos
+30:Fourmi
+31:Araignee_entre yeux -> eventPiqureAraignee
+32:Shape of Water -> eventSangsue
+33:Bruit_devant -> eventTomber
+34:Cactus
+35:Pont_simple
+36:Falaise -> Echo
+37:Falaise_s'asseoir_demi-tour
+38:Lutte contre peur -> eventChoixChant
+39:Baie_rouge
+40:Pommier
+41:Somnolence_simple
+42:It's a wolf...
+43:Tribue -> eventMortouTchiTchi
+44:Baie_bleu
+45:Baie_jaune
+46:Baie_blanche
+47:Ruisseau_si sauter -> Blind
+48:Face a la mer -> eventTrou
+49:Folie_food_sleep_simple
+50:Folie_life_fear_simple
+51:Clairiere enchantee -> eventLoop
+52:Attraper les tous -> Pokemon
+53:Plage -> eventCoupSoleil
+54:Chasse a l'ours -> ChasseOurs ou eventOurs
+55:Pecher -> Pecher
+56:Besoin d'hygiene -> eventHygiene
+57:Smoke W**d Every Day
+58:Noix de Coco -> eventCoco
+59:Besoin d'aide ! -> eventNothing
+60:Mal de pied
+61:Laisser une trace -> eventPeur
+62:Mirage -> eventMirage
+63:Des secours ?

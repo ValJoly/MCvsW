@@ -1,0 +1,20 @@
+Titre:Fruit
+Description_Event:Ne connaissant vraiment pas ce fruit, il faudrait peut etre le cuire. Sauf si vous preferez le manger cru, a vous de voir.
+
+Choix1_Titre:Allumer un feu puis le cuire.
+Choix1_Alimentation:2
+Choix1_Vie:0
+Choix1_Epuisement:2
+Choix1_Peur:0
+Choix1_Time:3
+Choix1_Loot:NULL
+Choix1_Next:NULL
+
+Choix2_Titre:Le manger cru.
+Choix2_Alimentation:3
+Choix2_Vie:-2
+Choix2_Epuisement:-1
+Choix2_Peur:0
+Choix2_Time:2
+Choix2_Loot:NULL
+Choix2_Next:NULL

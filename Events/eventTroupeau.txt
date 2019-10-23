@@ -1,0 +1,20 @@
+Titre:Troupeau
+Description_Event:Un grand silence se pose suite a votre eternuement. Vous entendez juste apres un belement de mouton au loin, puis un autre, encore un autre... Tout le troupeau est eveille. Il vous fixe et se dirige vers vous.
+
+Choix1_Titre:Fuir en courant.
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:1
+Choix1_Peur:-3
+Choix1_Time:1
+Choix1_Loot:NULL
+Choix1_Next:NULL
+
+Choix2_Titre:Grimper dans les arbres pour les esquiver. 
+Choix2_Alimentation:0
+Choix2_Vie:0
+Choix2_Epuisement:2
+Choix2_Peur:-2
+Choix2_Time:1
+Choix2_Loot:NULL
+Choix2_Next:NULL

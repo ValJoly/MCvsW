@@ -1,0 +1,20 @@
+Titre:..
+Description_Event:..
+
+Choix1_Titre:"C'est tout simplement une hallucination collective ahaha ! Mais je suis seul, donc elle est...euh...seulective ?"
+Choix1_Alimentation:-1
+Choix1_Vie:0
+Choix1_Epuisement:-1
+Choix1_Peur:-3
+Choix1_Time:1
+Choix1_Loot:NULL
+Choix1_Next:Blind/Analyze/eventWait.txt
+
+Choix2_Titre:Attendre et me reposer. Ma tete me fait mal je suis simplement sonne. 
+Choix2_Alimentation:0
+Choix2_Vie:3
+Choix2_Epuisement:-3
+Choix2_Peur:0
+Choix2_Time:5
+Choix2_Loot:NULL
+Choix2_Next:NULL

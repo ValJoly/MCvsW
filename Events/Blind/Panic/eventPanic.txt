@@ -1,0 +1,20 @@
+Titre:.
+Description_Event:..
+
+Choix1_Titre:Foncer tout droit en criant !
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:3
+Choix1_Peur:0
+Choix1_Time:1
+Choix1_Loot:NULL
+Choix1_Next:Blind/Panic/eventPanicFoncer.txt
+
+Choix2_Titre:Rester de marbre, glace par la peur.
+Choix2_Alimentation:0
+Choix2_Vie:0
+Choix2_Epuisement:0
+Choix2_Peur:3
+Choix2_Time:1
+Choix2_Loot:NULL
+Choix2_Next:Blind/Panic/eventPanicPeur.txt

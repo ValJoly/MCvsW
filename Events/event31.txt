@@ -1,0 +1,20 @@
+Titre:Araignee
+Description_Event:Une araignee accrochee a un fil descend doucement et se pose entre vos yeux.
+
+Choix1_Titre:Tendre la main pour l'enlever delicatement.
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:0
+Choix1_Peur:-2
+Choix1_Time:1
+Choix1_Loot:NULL
+Choix1_Next:eventPiqureAraignee.txt
+
+Choix2_Titre:L'ecraser violement.
+Choix2_Alimentation:0
+Choix2_Vie:-3
+Choix2_Epuisement:0
+Choix2_Peur:1
+Choix2_Time:1
+Choix2_Loot:NULL
+Choix2_Next:NULL

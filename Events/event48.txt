@@ -1,0 +1,20 @@
+Titre:Face a la mer
+Description_Event:La mer est face a vous. Il semblerait que vous soyez arriver a une extremite de l'ile.
+
+Choix1_Titre:Ramasser du sable.
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:0
+Choix1_Peur:0
+Choix1_Time:1
+Choix1_Loot:loot23.txt
+Choix1_Next:NULL
+
+Choix2_Titre:Creuser un trou.
+Choix2_Alimentation:0
+Choix2_Vie:0
+Choix2_Epuisement:2
+Choix2_Peur:0
+Choix2_Time:0
+Choix2_Loot:NULL
+Choix2_Next:eventTrou.txt

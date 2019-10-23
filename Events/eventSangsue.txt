@@ -1,0 +1,20 @@
+Titre:Shape of Water
+Description_Event:Vous etes dans l'eau, vous vous etes desaltere. Tout est trop paisible... Vous avez un picotement au niveau de votre pied et vous vous souvenez des formes au fond de l'eau. Ce sont des sangsues, vous vous debattez et sortez en vitesse.
+
+Choix1_Titre:Aaah !! J'ai perdu du sang...
+Choix1_Alimentation:0
+Choix1_Vie:-3
+Choix1_Epuisement:2
+Choix1_Peur:1
+Choix1_Time:2
+Choix1_Loot:NULL
+Choix1_Next:NULL
+
+Choix2_Titre:Elles m'ont bien eu, la douleur est insuportable...
+Choix2_Alimentation:0
+Choix2_Vie:-3
+Choix2_Epuisement:2
+Choix2_Peur:1
+Choix2_Time:2
+Choix2_Loot:NULL
+Choix2_Next:NULL

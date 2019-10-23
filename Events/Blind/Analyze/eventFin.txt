@@ -1,0 +1,20 @@
+Titre:..
+Description_Event:Vous retrouvez la vue apres un long moment.
+
+Choix1_Titre:"Je me disais bien aussi qu'il me manquait quelque chose !"
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:0
+Choix1_Peur:-2
+Choix1_Time:1
+Choix1_Loot:NULL
+Choix1_Next:NULL
+
+Choix2_Titre:Se lever calmement et s'etirer.
+Choix2_Alimentation:0
+Choix2_Vie:0
+Choix2_Epuisement:-1
+Choix2_Peur:-1
+Choix2_Time:1
+Choix2_Loot:NULL
+Choix2_Next:NULL

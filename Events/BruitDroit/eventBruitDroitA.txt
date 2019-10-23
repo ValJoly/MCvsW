@@ -1,0 +1,20 @@
+Titre:Bruit
+Description_Event:Le bruit retentit a nouveau, vous l'entendez de plus en plus proche.
+
+Choix1_Titre:Continuer sans rien lacher.
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:1
+Choix1_Peur:0
+Choix1_Time:0
+Choix1_Loot:NULL
+Choix1_Next:BruitDroit/eventBruitDroitB.txt
+
+Choix2_Titre:Prendre enfin peur et fuir.
+Choix2_Alimentation:0
+Choix2_Vie:0
+Choix2_Epuisement:2
+Choix2_Peur:2
+Choix2_Time:1
+Choix2_Loot:NULL
+Choix2_Next:NULL

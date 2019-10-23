@@ -1,0 +1,20 @@
+Titre:Arbre
+Description_Event:Vous trouvez de pommes dans l'arbre. La chasse ce n'est pas votre truc finalement.
+
+Choix1_Titre:Cueillir des pommes.
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:0
+Choix1_Peur:-1
+Choix1_Time:1
+Choix1_Loot:loot14.txt
+Choix1_Next:NULL
+
+Choix2_Titre:Descendre.
+Choix2_Alimentation:0
+Choix2_Vie:0
+Choix2_Epuisement:0
+Choix2_Peur:0
+Choix2_Time:1
+Choix2_Loot:NULL
+Choix2_Next:NULL

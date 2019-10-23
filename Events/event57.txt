@@ -1,0 +1,20 @@
+Titre:Smoke W**d Every Day
+Description_Event:Vous trouvez une plante qui vous rappelle quelque chose. 
+
+Choix1_Titre:La fumer.
+Choix1_Alimentation:0
+Choix1_Vie:1
+Choix1_Epuisement:0
+Choix1_Peur:-4
+Choix1_Time:1
+Choix1_Loot:NULL
+Choix1_Next:NULL
+
+Choix2_Titre:La ramasser.
+Choix2_Alimentation:0
+Choix2_Vie:0
+Choix2_Epuisement:0
+Choix2_Peur:0
+Choix2_Time:1
+Choix2_Loot:loot15.txt
+Choix2_Next:NULL

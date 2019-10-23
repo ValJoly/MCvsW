@@ -1,0 +1,20 @@
+Titre:GAME OVER
+Description_Event:Vous ramassez une branche et vous vous elancez. Vous tombez dans les sables mouvants, vous paniquez et vous vous enfoncez vers l'inevitable... Pensiez vous vraiment que vous seriez à la hauteur tel Renaud Lavillenie ?
+
+Choix1_Titre:Non...
+Choix1_Alimentation:0
+Choix1_Vie:-50
+Choix1_Epuisement:0
+Choix1_Peur:0
+Choix1_Time:0
+Choix1_Loot:NULL
+Choix1_Next:NULL
+
+Choix2_Titre:J'en avais pourtant deja fait dans ma jeunesse...
+Choix2_Alimentation:0
+Choix2_Vie:-50
+Choix2_Epuisement:0
+Choix2_Peur:0
+Choix2_Time:0
+Choix2_Loot:NULL
+Choix2_Next:NULL

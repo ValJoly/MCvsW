@@ -1,0 +1,20 @@
+Titre:Bruit
+Description_Event:Peu a peu, sans trop de raison, le bruit s'estompe. Vous n'avez pas trouve sa source.
+
+Choix1_Titre:Se reposer et manger quelque chose.
+Choix1_Alimentation:1
+Choix1_Vie:1
+Choix1_Epuisement:-1
+Choix1_Peur:-1
+Choix1_Time:3
+Choix1_Loot:NULL
+Choix1_Next:NULL
+
+Choix2_Titre:Continuer sa route dans la même direction.
+Choix2_Alimentation:0
+Choix2_Vie:0
+Choix2_Epuisement:2
+Choix2_Peur:-1
+Choix2_Time:2
+Choix2_Loot:NULL
+Choix2_Next:NULL

@@ -1,0 +1,8 @@
+Nom_Item:
+
+Val_Item_Alimentation:
+Val_Item_Vie:
+Val_Item_Epuisement:
+Val_Item_Peur:
+
+Add_Stuff:

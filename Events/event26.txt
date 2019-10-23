@@ -1,0 +1,20 @@
+Titre:Repos
+Description_Event:Vous arrivez devant une etendue d'eau. Celle ci est claire et semble rafraichissante.
+
+Choix1_Titre:Monter un camp près du lac.
+Choix1_Alimentation:2
+Choix1_Vie:0
+Choix1_Epuisement:-3
+Choix1_Peur:-1
+Choix1_Time:3
+Choix1_Loot:NULL
+Choix1_Next:NULL
+
+Choix2_Titre:Boire et s'en aller.
+Choix2_Alimentation:1
+Choix2_Vie:-1
+Choix2_Epuisement:2
+Choix2_Peur:0
+Choix2_Time:1
+Choix2_Loot:NULL
+Choix2_Next:NULL

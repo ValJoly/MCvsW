@@ -1,0 +1,20 @@
+Titre:Des secours ?!
+Description_Event:Vous apercevez un bateau au loin.
+
+Choix1_Titre:Partir en pensant "Je dois me detendre. Ce n'est que mon imagination".
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:-1
+Choix1_Peur:-2
+Choix1_Time:1
+Choix1_Loot:NULL
+Choix1_Next:NULL
+
+Choix2_Titre:Construire un radeau pour rejoindre le bateau.
+Choix2_Alimentation:-1
+Choix2_Vie:0
+Choix2_Epuisement:2
+Choix2_Peur:0
+Choix2_Time:0
+Choix2_Loot:NULL
+Choix2_Next:Secours/eventRadeau.txt

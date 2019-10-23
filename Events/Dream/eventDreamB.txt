@@ -1,0 +1,20 @@
+Titre:Rencontre
+Description_Event:Vous n'avez le temps de rien faire.. Vous sentez une main sur votre epaule.
+
+Choix1_Titre:Hurler !!
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:0
+Choix1_Peur:0
+Choix1_Time:0
+Choix1_Loot:NULL
+Choix1_Next:Dream/eventDreamC.txt
+
+Choix2_Titre:Rester stoique.
+Choix2_Alimentation:0
+Choix2_Vie:0
+Choix2_Epuisement:0
+Choix2_Peur:0
+Choix2_Time:0
+Choix2_Loot:NULL
+Choix2_Next:Dream/eventDreamC.txt

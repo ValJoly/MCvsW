@@ -1,0 +1,20 @@
+Titre:Shape of Water
+Description_Event:Vous arrivez pres d'un cours d'eau. Vous etes assoife et fatigue. L'eau est tres claire mais... vous apercevez des ombres dans le fond.
+
+Choix1_Titre:Se baigner et boire tranquillement.
+Choix1_Alimentation:1
+Choix1_Vie:0
+Choix1_Epuisement:-2
+Choix1_Peur:-2
+Choix1_Time:0
+Choix1_Loot:NULL
+Choix1_Next:eventSangsue.txt
+
+Choix2_Titre:Ne pas prendre le risque et partir.
+Choix2_Alimentation:-3
+Choix2_Vie:0
+Choix2_Epuisement:1
+Choix2_Peur:1
+Choix2_Time:1
+Choix2_Loot:NULL
+Choix2_Next:NULL

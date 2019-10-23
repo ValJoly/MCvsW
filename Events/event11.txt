@@ -1,0 +1,20 @@
+Titre:La pasteque
+Description_Event:Une pasteque decoupee est posee soigneusement sur un tronc d'arbre.
+
+Choix1_Titre:Ramasser les morceaux.
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:-1
+Choix1_Peur:-1
+Choix1_Time:1
+Choix1_Loot:loot16.txt
+Choix1_Next:NULL
+
+Choix2_Titre:Continuer, c'est surement un piege.
+Choix2_Alimentation:0
+Choix2_Vie:0
+Choix2_Epuisement:1
+Choix2_Peur:1
+Choix2_Time:1
+Choix2_Loot:NULL
+Choix2_Next:NULL

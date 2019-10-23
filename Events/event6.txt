@@ -1,0 +1,20 @@
+Titre:Perdu...
+Description_Event:Vous etes perdu au milieu de la foret et ne savez plus ou aller...
+
+Choix1_Titre:Continuer tout droit...
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:0
+Choix1_Peur:0
+Choix1_Time:0
+Choix1_Loot:NULL
+Choix1_Next:GrottePeur/eventGrottePeurFirst.txt
+
+Choix2_Titre:Revenir sur vos pas...
+Choix2_Alimentation:0
+Choix2_Vie:0
+Choix2_Epuisement:0
+Choix2_Peur:2
+Choix2_Time:1
+Choix2_Loot:NULL
+Choix2_Next:NULL

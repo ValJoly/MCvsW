@@ -1,0 +1,20 @@
+Titre:Baie
+Description_Event:Vous trouvez des baies rouges.
+
+Choix1_Titre:Les ramasser.
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:0
+Choix1_Peur:0
+Choix1_Time:1
+Choix1_Loot:loot13.txt
+Choix1_Next:NULL
+
+Choix2_Titre:Continuer.
+Choix2_Alimentation:-1
+Choix2_Vie:0
+Choix2_Epuisement:0
+Choix2_Peur:0
+Choix2_Time:1
+Choix2_Loot:NULL
+Choix2_Next:NULL

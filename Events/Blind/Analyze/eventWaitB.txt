@@ -1,0 +1,20 @@
+Titre:.
+Description_Event:...
+
+Choix1_Titre:Aaaah mais c'est ca.
+Choix1_Alimentation:-1
+Choix1_Vie:0
+Choix1_Epuisement:-1
+Choix1_Peur:-2
+Choix1_Time:1
+Choix1_Loot:NULL
+Choix1_Next:Blind/Analyze/eventFin.txt
+
+Choix2_Titre:Tout s'explique !! 
+Choix2_Alimentation:-1
+Choix2_Vie:0
+Choix2_Epuisement:-1
+Choix2_Peur:-2
+Choix2_Time:1
+Choix2_Loot:NULL
+Choix2_Next:Blind/Analyze/eventFin.txt

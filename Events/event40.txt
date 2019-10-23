@@ -1,0 +1,20 @@
+Titre:Pommier
+Description_Event:Il y a un pommier sur votre chemin.
+
+Choix1_Titre:Grimper dans l'arbre pour ramasser des pommes.
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:3
+Choix1_Peur:0
+Choix1_Time:1
+Choix1_Loot:loot14.txt
+Choix1_Next:NULL
+
+Choix2_Titre:Continuer.
+Choix2_Alimentation:-2
+Choix2_Vie:0
+Choix2_Epuisement:-1
+Choix2_Peur:0
+Choix2_Time:1
+Choix2_Loot:NULL
+Choix2_Next:NULL

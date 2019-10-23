@@ -1,0 +1,20 @@
+Titre:Falaise
+Description_Event:Vous arrivez devant une falaise.
+
+Choix1_Titre:Faire demi-tour
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:2
+Choix1_Peur:3
+Choix1_Time:1
+Choix1_Loot:NULL
+Choix1_Next:NULL
+
+Choix2_Titre:Descendre en utilisant les racines des arbres le long de la roche
+Choix2_Alimentation:-2
+Choix2_Vie:0
+Choix2_Epuisement:2
+Choix2_Peur:-1
+Choix2_Time:2
+Choix2_Loot:NULL
+Choix2_Next:NULL

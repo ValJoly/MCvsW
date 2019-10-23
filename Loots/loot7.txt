@@ -1,0 +1,10 @@
+Nom_Item:Epine
+
+Val_Item_Alimentation:0
+Val_Item_Vie:0
+Val_Item_Epuisement:0
+Val_Item_Peur:0
+
+Add_Stuff:0
+
+pathImage:epine.png

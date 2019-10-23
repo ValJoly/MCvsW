@@ -1,0 +1,20 @@
+Titre:Bruit
+Description_Event:Vous trebuchez et tomber mais vous persistez vers votre objectif. Vous apercevez un jaguar qui joue avec sa queue.
+
+Choix1_Titre:S'arreter net et s'approcher prudemment en tendant la main, pour essayer de le carreser.
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:1
+Choix1_Peur:-1
+Choix1_Time:0
+Choix1_Loot:NULL
+Choix1_Next:BruitGauche/BruitGaucheAgressif/eventBruitGaucheAgressifMort.txt
+
+Choix2_Titre:Continuer a courir vers lui, sans se soucier du danger.
+Choix2_Alimentation:0
+Choix2_Vie:0
+Choix2_Epuisement:2
+Choix2_Peur:-2
+Choix2_Time:0
+Choix2_Loot:NULL
+Choix2_Next:BruitGauche/BruitGaucheAgressif/eventBruitGaucheAgressifA.txt

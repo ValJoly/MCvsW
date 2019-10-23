@@ -1,0 +1,20 @@
+Titre:.
+Description_Event:...
+
+Choix1_Titre:"A l'aide, aider moi !!!"
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:0
+Choix1_Peur:3
+Choix1_Time:1
+Choix1_Loot:NULL
+Choix1_Next:Blind/Panic/eventPanicPeurCrampeFin.txt
+
+Choix2_Titre:Attendre que ca passe.
+Choix2_Alimentation:-1
+Choix2_Vie:0
+Choix2_Epuisement:0
+Choix2_Peur:2
+Choix2_Time:1
+Choix2_Loot:NULL
+Choix2_Next:Blind/Panic/eventPanicPeurCrampeFin.txt

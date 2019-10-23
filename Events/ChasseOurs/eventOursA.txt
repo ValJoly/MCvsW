@@ -1,0 +1,20 @@
+Titre:Chasse a l'ours
+Description_Event:On part a la chasse a l'ours !! On arrive dans une clairiere, un tigre et un lapin se font face. "Ce serait bien d'avoir de l'aide pour vaincre l'ours". 
+
+Choix1_Titre:Adopter le tigre.
+Choix1_Alimentation:-1
+Choix1_Vie:-2
+Choix1_Epuisement:1
+Choix1_Peur:1
+Choix1_Time:0
+Choix1_Loot:loot26.txt
+Choix1_Next:ChasseOurs/eventGrotteTigre.txt
+
+Choix2_Titre:Adopter le lapin.
+Choix2_Alimentation:1
+Choix2_Vie:2
+Choix2_Epuisement:-1
+Choix2_Peur:-1
+Choix2_Time:0
+Choix2_Loot:loot25.txt
+Choix2_Next:ChasseOurs/eventGrotteLapin.txt

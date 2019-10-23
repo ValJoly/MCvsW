@@ -1,0 +1,20 @@
+Titre:L'aventure
+Description_Event:"Improvise, Adapt, Overcome" ses mots resonnent dans votre tete. Cette vieille emission pourrait peut etre vous sauver la vie...
+
+Choix1_Titre:Partir dans la foret.
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:0
+Choix1_Peur:0
+Choix1_Time:0
+Choix1_Loot:loot2.txt
+Choix1_Next:NULL
+
+Choix2_Titre:Explorer l'avion avant.
+Choix2_Alimentation:0
+Choix2_Vie:0
+Choix2_Epuisement:0
+Choix2_Peur:0
+Choix2_Time:0
+Choix2_Loot:loot3.txt
+Choix2_Next:NULL

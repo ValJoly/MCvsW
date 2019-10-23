@@ -1,0 +1,20 @@
+Titre:Scenario
+Description_Event:Vous etes le dernier survivant du crash... Votre seul souvenir... Votre Prenom est... en dessous de votre inventaire...
+
+Choix1_Titre:Ouf je me souviens au moins de ca !
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:0
+Choix1_Peur:0
+Choix1_Time:0
+Choix1_Loot:NULL
+Choix1_Next:Scenario/eventDebutDeLaventure.txt
+
+Choix2_Titre:Je vais devoir survivre...
+Choix2_Alimentation:0
+Choix2_Vie:0
+Choix2_Epuisement:0
+Choix2_Peur:0
+Choix2_Time:0
+Choix2_Loot:NULL
+Choix2_Next:Scenario/eventDebutDeLaventure.txt

@@ -1,0 +1,20 @@
+Titre:Bruit
+Description_Event:Vous lui enlevez jusqu'a la derniere epine, que vous decidez de garder. L'ours veut vous remercier mais ne fait pas dans la delicatesse. Il vous assene un violent coup de griffe. Confus, il s'enfuit.
+
+Choix1_Titre:Aie...
+Choix1_Alimentation:0
+Choix1_Vie:-2
+Choix1_Epuisement:0
+Choix1_Peur:1
+Choix1_Time:3
+Choix1_Loot:loot7.txt
+Choix1_Next:NULL
+
+Choix2_Titre:J'ai mal...
+Choix2_Alimentation:0
+Choix2_Vie:-2
+Choix2_Epuisement:0
+Choix2_Peur:1
+Choix2_Time:3
+Choix2_Loot:loot7.txt
+Choix2_Next:NULL

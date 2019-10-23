@@ -1,0 +1,8 @@
+Nom_Item:Baies Blanches
+
+Val_Item_Alimentation:-1
+Val_Item_Vie:-2
+Val_Item_Epuisement:0
+Val_Item_Peur:0
+
+Add_Stuff:0

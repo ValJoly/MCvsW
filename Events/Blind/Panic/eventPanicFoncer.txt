@@ -1,0 +1,20 @@
+Titre:.
+Description_Event:...
+
+Choix1_Titre:Se relever difficilement.
+Choix1_Alimentation:0
+Choix1_Vie:-2
+Choix1_Epuisement:2
+Choix1_Peur:0
+Choix1_Time:1
+Choix1_Loot:NULL
+Choix1_Next:Blind/Panic/eventPanicFoncerFin.txt
+
+Choix2_Titre:Se calmer un peu, rester par terre et tenter de se reposer.
+Choix2_Alimentation:0
+Choix2_Vie:-2
+Choix2_Epuisement:-2
+Choix2_Peur:0
+Choix2_Time:1
+Choix2_Loot:NULL
+Choix2_Next:Blind/Panic/eventPanicFoncerFin.txt

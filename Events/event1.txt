@@ -1,0 +1,20 @@
+Titre:Ville
+Description_Event:Vous arriver dans une ville en ruine et trouver une maison qui a l'air interessante.
+
+Choix1_Titre:Visiter la maison
+Choix1_Alimentation:1
+Choix1_Vie:0
+Choix1_Epuisement:1
+Choix1_Peur:0
+Choix1_Time:0
+Choix1_Loot:NULL
+Choix1_Next:eventMaison.txt
+
+Choix2_Titre:Quitter la ville
+Choix2_Alimentation:0
+Choix2_Vie:0
+Choix2_Epuisement:1
+Choix2_Peur:1
+Choix2_Time:1
+Choix2_Loot:NULL
+Choix2_Next:NULL

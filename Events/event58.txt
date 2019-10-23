@@ -1,0 +1,20 @@
+Titre:Noix de coco
+Description_Event:Vous vous balader tranquillement et soudain...une sorte de gros caillou noir tombe devant vous. C'est une noix de coco !!
+
+Choix1_Titre:Essayer de l'ouvrir.
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:2
+Choix1_Peur:0
+Choix1_Time:0
+Choix1_Loot:NULL
+Choix1_Next:NoixCoco/eventCoco.txt
+
+Choix2_Titre:Partir
+Choix2_Alimentation:-2
+Choix2_Vie:0
+Choix2_Epuisement:0
+Choix2_Peur:0
+Choix2_Time:1
+Choix2_Loot:NULL
+Choix2_Next:NULL

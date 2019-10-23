@@ -1,0 +1,20 @@
+Titre:.
+Description_Event:...
+
+Choix1_Titre:Reessayer de l'attraper.
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:2
+Choix1_Peur:-1
+Choix1_Time:1
+Choix1_Loot:loot22.txt
+Choix1_Next:Blind/Panic/eventPanicPeurFin.txt
+
+Choix2_Titre:Le laisser tranquille et se reposer.
+Choix2_Alimentation:0
+Choix2_Vie:0
+Choix2_Epuisement:-3
+Choix2_Peur:0
+Choix2_Time:1
+Choix2_Loot:NULL
+Choix2_Next:Blind/Panic/eventPanicPeurFin.txt

@@ -1,0 +1,29 @@
+1:Poel
+2:Branche
+3:Medikit
+4:B0173 D'4LLUM3773
+5:Bouclier de Captain Wakando
+6:Besace
+7:Epine
+8:Sac
+9:Fleche
+10:Gourde Humide
+11:Fruit meconnu
+12:Fourmi
+13:Baies rouges
+14:Pommes
+15:Plante medicinal
+16:Morceaux de Pasteques
+17:Baies Violettes
+18:Cadavre de Serpent
+19:Baies Bleues
+20:Baies Jaunes
+21:Baies Blanches
+22:Moustique ecrase
+23:Sable
+24:Oeufs de toucan
+25:Lapin
+26:Tigre
+27:Dorade
+28:Carpe
+29:Chaussure de Fortune

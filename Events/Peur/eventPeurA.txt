@@ -1,0 +1,20 @@
+Titre:Laissez une trace
+Description_Event:Vous ne remarquez rien. Il n'y a que vous dans la grotte.
+
+Choix1_Titre:Sortir tranquillement de la grotte.
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:0
+Choix1_Peur:0
+Choix1_Time:2
+Choix1_Loot:NULL
+Choix1_Next:NULL
+
+Choix2_Titre:S'enfuir de la grotte à toute vitesse, quelque chose cloche.
+Choix2_Alimentation:0
+Choix2_Vie:0
+Choix2_Epuisement:1
+Choix2_Peur:2
+Choix2_Time:2
+Choix2_Loot:NULL
+Choix2_Next:NULL

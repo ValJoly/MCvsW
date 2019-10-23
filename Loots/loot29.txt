@@ -1,0 +1,8 @@
+Nom_Item:Chaussure de fortune
+
+Val_Item_Alimentation:0
+Val_Item_Vie:0
+Val_Item_Epuisement:-2
+Val_Item_Peur:-1
+
+Add_Stuff:0

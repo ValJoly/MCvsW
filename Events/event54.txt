@@ -1,0 +1,20 @@
+Titre:Chasse a l'ours
+Description_Event:On part a la chasse a l'ours !! On arrive devant une montage.
+
+Choix1_Titre:Passer de ce cote.
+Choix1_Alimentation:-1
+Choix1_Vie:0
+Choix1_Epuisement:1
+Choix1_Peur:0
+Choix1_Time:0
+Choix1_Loot:NULL
+Choix1_Next:eventOurs.txt
+
+Choix2_Titre:Passer de l'autre cote.
+Choix2_Alimentation:0
+Choix2_Vie:1
+Choix2_Epuisement:0
+Choix2_Peur:2
+Choix2_Time:0
+Choix2_Loot:NULL
+Choix2_Next:ChasseOurs/eventOurs.txt

@@ -1,0 +1,20 @@
+Titre:Le harpon en main
+Description_Event:Vous pechez avec votre harpon.
+
+Choix1_Titre:Plonger pour pecher sous l'eau.
+Choix1_Alimentation:0
+Choix1_Vie:-1
+Choix1_Epuisement:1
+Choix1_Peur:0
+Choix1_Time:1
+Choix1_Loot:NULL
+Choix1_Next:Pecher/eventHarponMiss.txt
+
+Choix2_Titre:Rester a l'affut.
+Choix2_Alimentation:
+Choix2_Vie:
+Choix2_Epuisement:
+Choix2_Peur:-1
+Choix2_Time:2
+Choix2_Loot:NULL
+Choix2_Next:Pecher/eventReward.txt

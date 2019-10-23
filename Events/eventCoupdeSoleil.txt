@@ -1,0 +1,20 @@
+Titre:Coup de Soleil
+Description_Event:Vous avez piquer du nez. En vous reveillant, votre corps est couvert de coup de soleil. 
+
+Choix1_Titre:"Quand je touche, ca fait mal"
+Choix1_Alimentation:0
+Choix1_Vie:-2
+Choix1_Epuisement:-1
+Choix1_Peur:0
+Choix1_Time:3
+Choix1_Loot:NULL
+Choix1_Next:NULL
+
+Choix2_Titre:Partir depite.
+Choix2_Alimentation:0
+Choix2_Vie:-2
+Choix2_Epuisement:-1
+Choix2_Peur:0
+Choix2_Time:3
+Choix2_Loot:NULL
+Choix2_Next:NULL

@@ -1,0 +1,20 @@
+Titre:Maison
+Description_Event:Vous arriver dans une maison
+
+Choix1_Titre:Visiter la maison
+Choix1_Alimentation:2
+Choix1_Vie:0
+Choix1_Epuisement:1
+Choix1_Peur:0
+Choix1_Time:2
+Choix1_Loot:loot1.txt
+Choix1_Next:NULL
+
+Choix2_Titre:Sortir de la maison
+Choix2_Alimentation:-1
+Choix2_Vie:0
+Choix2_Epuisement:1
+Choix2_Peur:1
+Choix1_Time:1
+Choix2_Loot:NULL
+Choix2_Next:event1.txt

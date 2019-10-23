@@ -1,0 +1,20 @@
+Titre:Attraper les tous !
+Description_Event:Vous entendez une voix "Roucool est un pokemon de type vol. Il vous emmenera partout ou vous voulez"
+
+Choix1_Titre:Fuir grace a l'attaque vol.
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:0
+Choix1_Peur:-2
+Choix1_Time:0
+Choix1_Loot:NULL
+Choix1_Next:Pokemon/eventRoucoolA.txt
+
+Choix2_Titre:Se taper la tete, quelque chose ne tourne pas rond...
+Choix2_Alimentation:0
+Choix2_Vie:0
+Choix2_Epuisement:0
+Choix2_Peur:2
+Choix2_Time:1
+Choix2_Loot:NULL
+Choix2_Next:Pokemon/eventToucan.txt

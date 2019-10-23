@@ -1,0 +1,20 @@
+Titre:Bruit
+Description_Event:Vous apercevez une fleche plantee dans un arbre.
+
+Choix1_Titre:La ramasser.
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:0
+Choix1_Peur:1
+Choix1_Time:0
+Choix1_Loot:loot9.txt
+Choix1_Next:BruitDroit/eventBruitDroitA.txt
+
+Choix2_Titre:Continuer.
+Choix2_Alimentation:0
+Choix2_Vie:0
+Choix2_Epuisement:1
+Choix2_Peur:2
+Choix2_Time:1
+Choix2_Loot:NULL
+Choix2_Next:BruitDroit/eventBruitDroitA.txt

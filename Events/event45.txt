@@ -1,0 +1,20 @@
+Titre:Baie
+Description_Event:A proximite d'un cours d'eau, vous trouvez des baies jaunes
+
+Choix1_Titre:En ramasser.
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:0
+Choix1_Peur:-1
+Choix1_Time:1
+Choix1_Loot:loot20.txt
+Choix1_Next:NULL
+
+Choix2_Titre:Ne pas prendre de risque et boire de l'eau.
+Choix2_Alimentation:1
+Choix2_Vie:0
+Choix2_Epuisement:0
+Choix2_Peur:0
+Choix2_Time:1
+Choix2_Loot:NULL
+Choix2_Next:NULL

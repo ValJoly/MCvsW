@@ -1,0 +1,20 @@
+Titre:Ruisseau
+Description_Event:Vous reussisez a traverser non sans mal. Desequilibre, vous tombez brusquement tete la premiere dans le sable... Ca risque probablement d'affecter votre etat durant les prochaines heures.
+
+Choix1_Titre:"Ouuuf j'ai eu chaud.."
+Choix1_Alimentation:0
+Choix1_Vie:-2
+Choix1_Epuisement:
+Choix1_Peur:-2
+Choix1_Time:1
+Choix1_Loot:NULL
+Choix1_Next:Blind/eventBlind.txt
+
+Choix2_Titre:"Ma tete me fait mal.."
+Choix2_Alimentation:0
+Choix2_Vie:-2
+Choix2_Epuisement:0
+Choix2_Peur:2
+Choix2_Time:1
+Choix2_Loot:NULL
+Choix2_Next:Blind/eventBlind.txt

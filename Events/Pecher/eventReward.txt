@@ -1,0 +1,20 @@
+Titre:Le harpon en main.
+Description_Event:Vous attendez...longtemps...tres longtemps... Et soudain l'eau s'agite devant. Tel un professionel vous assenez d'un coup de mettre votre proie.
+
+Choix1_Titre:Je suis juste le boss !
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:0
+Choix1_Peur:0
+Choix1_Time:1
+Choix1_Loot:loot27.txt
+Choix1_Next:NULL
+
+Choix2_Titre:J'ai attrape magicarpe !
+Choix2_Alimentation:0
+Choix2_Vie:0
+Choix2_Epuisement:0
+Choix2_Peur:0
+Choix2_Time:1
+Choix2_Loot:loot28.txt
+Choix2_Next:NULL

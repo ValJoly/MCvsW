@@ -1,0 +1,20 @@
+Titre:Bruit
+Description_Event:Un bruit derangeant se fait entendre sur votre gauche.
+
+Choix1_Titre:Prendre la fuite.
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:1
+Choix1_Peur:2
+Choix1_Time:1
+Choix1_Loot:NULL
+Choix1_Next:NULL
+
+Choix2_Titre:Prendre mon courage a deux mains et foncer sur ma gauche.
+Choix2_Alimentation:0
+Choix2_Vie:0
+Choix2_Epuisement:1
+Choix2_Peur:-1
+Choix2_Time:0
+Choix2_Loot:NULL
+Choix2_Next:BruitGauche/eventBruitGauche.txt

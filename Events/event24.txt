@@ -1,0 +1,20 @@
+Titre:Faim
+Description_Event:Vous sentez un creux dans le ventre.
+
+Choix1_Titre:Manger.
+Choix1_Alimentation:2
+Choix1_Vie:1
+Choix1_Epuisement:-1
+Choix1_Peur:0
+Choix1_Time:1
+Choix1_Loot:NULL
+Choix1_Next:NULL
+
+Choix2_Titre:Continuer, je trouverai a manger plus tard.
+Choix2_Alimentation:-2
+Choix2_Vie:0
+Choix2_Epuisement:1
+Choix2_Peur:-1
+Choix2_Time:1
+Choix2_Loot:NULL
+Choix2_Next:NULL

@@ -1,0 +1,20 @@
+Titre:Des secours ?!
+Description_Event:Grace a tous les arbres autour de vous, vous reussissez a construire un radeau qui semble tenir la route. Pas mal de temps, s'est ecoule le bateau s'eloigne.
+
+Choix1_Titre:Prendre la mer.
+Choix1_Alimentation:-1
+Choix1_Vie:0
+Choix1_Epuisement:2
+Choix1_Peur:1
+Choix1_Time:1
+Choix1_Loot:NULL
+Choix1_Next:Secours/eventVague.txt
+
+Choix2_Titre:Rester ici, vous etes plutot bien finalement.
+Choix2_Alimentation:0
+Choix2_Vie:2
+Choix2_Epuisement:0
+Choix2_Peur:-2
+Choix2_Time:4
+Choix2_Loot:NULL
+Choix2_Next:NULL

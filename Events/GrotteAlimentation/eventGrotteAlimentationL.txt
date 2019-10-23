@@ -1,0 +1,20 @@
+Titre:Quelque part dans la grotte
+Description_Event:Vous etes revenu au départ de la grotte
+
+Choix1_Titre:Oh rage!
+Choix1_Alimentation:-1
+Choix1_Vie:0
+Choix1_Epuisement:0
+Choix1_Peur:0
+Choix1_Time:1
+Choix1_Loot:NULL
+Choix1_Next:GrotteAlimentation/eventGrotteAlimentationFirst.txt
+
+Choix2_Titre:Oh désespoir!
+Choix2_Alimentation:-1
+Choix2_Vie:0
+Choix2_Epuisement:0
+Choix2_Peur:0
+Choix2_Time:1
+Choix2_Loot:NULL
+Choix2_Next:GrotteAlimentation/eventGrotteAlimentationFirst.txt

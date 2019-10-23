@@ -1,0 +1,20 @@
+Titre:Lutte contre la peur
+Description_Event:Vous entendez de plus en plus de bruit etrange tout autour de vous.
+
+Choix1_Titre:Chanter pour vous detendre et continuer a marcher.
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:1
+Choix1_Peur:-3
+Choix1_Time:1
+Choix1_Loot:NULL
+Choix1_Next:eventChoixChant.txt
+
+Choix2_Titre:Grimper dans un arbre et se reposer, le bruit va passer.
+Choix2_Alimentation:1
+Choix2_Vie:0
+Choix2_Epuisement:-3
+Choix2_Peur:0
+Choix2_Time:1
+Choix2_Loot:NULL
+Choix2_Next:NULL

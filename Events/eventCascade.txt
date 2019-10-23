@@ -1,0 +1,20 @@
+Titre:Cascade suite
+Description_Event:Vous traversez la cascade et vous trouvez le debut d'une grotte.
+
+Choix1_Titre:Faire demi-tour et continuer notre chemin.
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:0
+Choix1_Peur:0
+Choix1_Time:1
+Choix1_Loot:NULL
+Choix1_Next:NULL
+
+Choix2_Titre:Aller dans la Grotte
+Choix2_Alimentation:-1
+Choix2_Vie:0
+Choix2_Epuisement:0
+Choix2_Peur:0
+Choix1_Time:1
+Choix2_Loot:NULL
+Choix2_Next:GrotteAlimentation/eventGrotteAlimentationFirst.txt

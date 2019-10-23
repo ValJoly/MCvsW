@@ -1,0 +1,20 @@
+Titre:Cascade
+Description_Event:En arrivant devant une cascade vous avez l'impression que quelqu'chose brille de l'autre cote
+
+Choix1_Titre:Boire un coup et s'en aller
+Choix1_Alimentation:0
+Choix1_Vie:1
+Choix1_Epuisement:-1
+Choix1_Peur:0
+Choix1_Time:1
+Choix1_Loot:NULL
+Choix1_Next:NULL
+
+Choix2_Titre:Aller voir l'autre cote de la cascade
+Choix2_Alimentation:0
+Choix2_Vie:-1
+Choix2_Epuisement:1
+Choix2_Peur:0
+Choix2_Time:1
+Choix2_Loot:NULL
+Choix2_Next:eventCascade.txt

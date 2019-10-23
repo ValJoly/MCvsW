@@ -1,0 +1,20 @@
+Titre:La pluie
+Description_Event:Une petite averse arrive sur vous. Elle s'intensifie de plus en plus.
+
+Choix1_Titre:Continuer, c'est juste de la pluie.
+Choix1_Alimentation:0
+Choix1_Vie:-1
+Choix1_Epuisement:2
+Choix1_Peur:0
+Choix1_Time:1
+Choix1_Loot:NULL
+Choix1_Next:NULL
+
+Choix2_Titre:Faire une petite pause.
+Choix2_Alimentation:0
+Choix2_Vie:1
+Choix2_Epuisement:-1
+Choix2_Peur:1
+Choix2_Time:1
+Choix2_Loot:NULL
+Choix2_Next:NULL

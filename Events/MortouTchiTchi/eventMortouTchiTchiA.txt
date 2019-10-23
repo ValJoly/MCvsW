@@ -1,0 +1,20 @@
+Titre:Tribue
+Description_Event:Ils ne semblent pas receptif. Ils vous proposent a leur tour de choisir. "La Mort ou le TchiTchi"
+
+Choix1_Titre:Quoi ??
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:0
+Choix1_Peur:1
+Choix1_Time:0
+Choix1_Loot:NULL
+Choix1_Next:MortouTchiTchi/eventMortouTchiTchiB.txt
+
+Choix2_Titre:Ne pas comprendre et s'enfuir.
+Choix2_Alimentation:0
+Choix2_Vie:0
+Choix2_Epuisement:1
+Choix2_Peur:2
+Choix2_Time:2
+Choix2_Loot:NULL
+Choix2_Next:NULL

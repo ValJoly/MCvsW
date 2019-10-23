@@ -1,0 +1,20 @@
+Titre:Mirage
+Description_Event:La forme s'eloigne en s'agrandissant et prend soudain la forme d'un kiwi géant... 
+
+Choix1_Titre:J'ai faiiiim !
+Choix1_Alimentation:-2
+Choix1_Vie:1
+Choix1_Epuisement:3
+Choix1_Peur:-1
+Choix1_Time:3
+Choix1_Loot:NULL
+Choix1_Next:NULL
+
+Choix2_Titre:...Enfin je peeeeense ?
+Choix2_Alimentation:2
+Choix2_Vie:-1
+Choix2_Epuisement:-3
+Choix2_Peur:1
+Choix2_Time:3
+Choix2_Loot:NULL
+Choix2_Next:NULL

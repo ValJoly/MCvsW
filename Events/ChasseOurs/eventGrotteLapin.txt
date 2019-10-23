@@ -1,0 +1,20 @@
+Titre:Chasse a l'ours
+Description_Event:On part a la chasse a l'ours !! On arrive devant une grotte. L'ours est la !
+
+Choix1_Titre:Attaquer.
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:0
+Choix1_Peur:0
+Choix1_Time:0
+Choix1_Loot:NULL
+Choix1_Next:ChasseOurs/eventLapinAttaquer.txt
+
+Choix2_Titre:Fuir.
+Choix2_Alimentation:0
+Choix2_Vie:0
+Choix2_Epuisement:2
+Choix2_Peur:1
+Choix2_Time:2
+Choix2_Loot:NULL
+Choix2_Next:NULL

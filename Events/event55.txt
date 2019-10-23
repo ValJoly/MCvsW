@@ -1,0 +1,20 @@
+Titre:Du poisson ?
+Description_Event:L'envie de pecher vous viens à l'esprit.
+
+Choix1_Titre:Fabriquer une canne a peche.
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:0
+Choix1_Peur:0
+Choix1_Time:0
+Choix1_Loot:NULL
+Choix1_Next:Pecher/eventCanne.txt
+
+Choix2_Titre:Fabriquer un harpon.
+Choix2_Alimentation:0
+Choix2_Vie:0
+Choix2_Epuisement:0
+Choix2_Peur:0
+Choix2_Time:0
+Choix2_Loot:NULL
+Choix2_Next:Pecher/eventHarpon.txt

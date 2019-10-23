@@ -1,0 +1,20 @@
+Titre:Chasse a l'ours
+Description_Event:Par solidarite animaliere, le tigre se retourne contre vous. Vous ne pouvez pas resister face a ces deux betes...
+
+Choix1_Titre:J'aurai du choisir un meilleur animal...
+Choix1_Alimentation:0
+Choix1_Vie:-35
+Choix1_Epuisement:0
+Choix1_Peur:0
+Choix1_Time:0
+Choix1_Loot:NULL
+Choix1_Next:NULL
+
+Choix2_Titre:Oups...
+Choix2_Alimentation:0
+Choix2_Vie:-35
+Choix2_Epuisement:0
+Choix2_Peur:0
+Choix2_Time:0
+Choix2_Loot:NULL
+Choix2_Next:NULL

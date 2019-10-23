@@ -1,0 +1,20 @@
+Titre:Camp
+Description_Event:Vous decidez de monter un camp.
+
+Choix1_Titre:Faire du feu pour manger.
+Choix1_Alimentation:3
+Choix1_Vie:1
+Choix1_Epuisement:1
+Choix1_Peur:0
+Choix1_Time:1
+Choix1_Loot:NULL
+Choix1_Next:NULL
+
+Choix2_Titre:Dormir.
+Choix2_Alimentation:0
+Choix2_Vie:2
+Choix2_Epuisement:-3
+Choix2_Peur:0
+Choix2_Time:2
+Choix2_Loot:NULL
+Choix2_Next:NULL

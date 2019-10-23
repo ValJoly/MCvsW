@@ -1,0 +1,20 @@
+Titre:Echo
+Description_Event:Quelqu'un vous repond une insulte.
+
+Choix1_Titre:"Un autre rescape qui a la reference."
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:0
+Choix1_Peur:-1
+Choix1_Time:0
+Choix1_Loot:NULL
+Choix1_Next:event37.txt
+
+Choix2_Titre:"Mon imagination me joue des tours..."
+Choix2_Alimentation:0
+Choix2_Vie:0
+Choix2_Epuisement:0
+Choix2_Peur:1
+Choix2_Time:0
+Choix2_Loot:NULL
+Choix2_Next:NULL

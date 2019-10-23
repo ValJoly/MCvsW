@@ -1,0 +1,20 @@
+Titre:Tribue
+Description_Event:Vous tentez la communication.
+
+Choix1_Titre:"Tu es une tribue ? Je suis une tribue ?"
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:0
+Choix1_Peur:-1
+Choix1_Time:0
+Choix1_Loot:NULL
+Choix1_Next:MortouTchiTchi/eventMortouTchiTchiA.txt
+
+Choix2_Titre:"Votre chef s'appelle-t-elle Dana ?"
+Choix2_Alimentation:0
+Choix2_Vie:0
+Choix2_Epuisement:0
+Choix2_Peur:-1
+Choix2_Time:0
+Choix2_Loot:NULL
+Choix2_Next:MortouTchiTchi/eventMortouTchiTchiA.txt

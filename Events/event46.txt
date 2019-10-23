@@ -1,0 +1,20 @@
+Titre:Baie
+Description_Event:Vous trouvez au sol, des baies blanches intactes. 
+
+Choix1_Titre:Les ramasser.
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:0
+Choix1_Peur:-1
+Choix1_Time:1
+Choix1_Loot:loot21.txt
+Choix1_Next:NULL
+
+Choix2_Titre:Ne pas prendre le risque, la regle des trois secondes est surement passe depuis longtemps.
+Choix2_Alimentation:0
+Choix2_Vie:0
+Choix2_Epuisement:0
+Choix2_Peur:1
+Choix2_Time:1
+Choix2_Loot:NULL
+Choix2_Next:NULL

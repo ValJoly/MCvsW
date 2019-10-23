@@ -1,0 +1,20 @@
+Titre:Un trou ?
+Description_Event:Apres avoir terminer de creuser, vous semblez ne pas en voir l'utilite.
+
+Choix1_Titre:Euh...c'est a dire que...
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:1
+Choix1_Peur:1
+Choix1_Time:2
+Choix1_Loot:NULL
+Choix1_Next:NULL
+
+Choix2_Titre:Oui, je me defoulais seulement.
+Choix2_Alimentation:0
+Choix2_Vie:0
+Choix2_Epuisement:1
+Choix2_Peur:-1
+Choix2_Time:2
+Choix2_Loot:NULL
+Choix2_Next:NULL

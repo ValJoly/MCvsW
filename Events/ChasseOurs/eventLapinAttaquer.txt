@@ -1,0 +1,20 @@
+Titre:Chasse a l'ours
+Description_Event:Avant de l'attaquer, le lapin s'approche doucement vers l'ours. Celui-ci est omnubile par cette petite fourrure blanche. L'ours semble totalement vous avoir oublie. Il retourne tranquillement se coucher dans sa grotte.
+
+Choix1_Titre:"Merci lapin, tu es vraiment le meilleur !"
+Choix1_Alimentation:2
+Choix1_Vie:2
+Choix1_Epuisement:0
+Choix1_Peur:0
+Choix1_Time:4
+Choix1_Loot:NULL
+Choix1_Next:NULL
+
+Choix2_Titre:"Je me disais bien que le tigre ne ferait pas l'affaire ;)"
+Choix2_Alimentation:0
+Choix2_Vie:0
+Choix2_Epuisement:-2
+Choix2_Peur:-2
+Choix2_Time:4
+Choix2_Loot:NULL
+Choix2_Next:NULL

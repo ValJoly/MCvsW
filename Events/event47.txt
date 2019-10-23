@@ -1,0 +1,20 @@
+Titre:Ruisseau
+Description_Event:Vous arrivez devant un ruisseau. Il faudrait un grand saut pour pouvoir le traverser.
+
+Choix1_Titre:Sauter.
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:2
+Choix1_Peur:-2
+Choix1_Time:1
+Choix1_Loot:NULL
+Choix1_Next:Blind/eventSaut.txt
+
+Choix2_Titre:Contourner le ruisseau.
+Choix2_Alimentation:0
+Choix2_Vie:0
+Choix2_Epuisement:3
+Choix2_Peur:-1
+Choix2_Time:1
+Choix2_Loot:NULL
+Choix2_Next:NULL

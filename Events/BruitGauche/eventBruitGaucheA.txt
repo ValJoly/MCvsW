@@ -1,0 +1,20 @@
+Titre:Bruit
+Description_Event:Vous arrivez dans un grand espace ou les arbres se font rares. Vous apercevez un point au loin qui bouge dans tous les sens. Le bruit semble venir de la.
+
+Choix1_Titre:Tenter une approche furtive, en etant accroupi.
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:1
+Choix1_Peur:-1
+Choix1_Time:0
+Choix1_Loot:NULL
+Choix1_Next:BruitGauche/BruitGaucheFurtif/eventBruitGaucheFurtif.txt
+
+Choix2_Titre:Tenter une approche agressive, en sprintant.
+Choix2_Alimentation:0
+Choix2_Vie:-2
+Choix2_Epuisement:2
+Choix2_Peur:-1
+Choix2_Time:0
+Choix2_Loot:NULL
+Choix2_Next:BruitGauche/BruitGaucheAgressif/eventBruitGaucheAgressif.txt

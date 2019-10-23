@@ -1,0 +1,20 @@
+Titre:Grotte
+Description_Event:Perdu quelque part dans la grotte, toujours 2 chemins devant vous.
+
+Choix1_Titre:Gauche
+Choix1_Alimentation:0
+Choix1_Vie:0
+Choix1_Epuisement:0
+Choix1_Peur:1
+Choix1_Time:0
+Choix1_Loot:NULL
+Choix1_Next:GrottePeur/eventGrottePeurP.txt
+
+Choix2_Titre:Droite
+Choix2_Alimentation:0
+Choix2_Vie:0
+Choix2_Epuisement:0
+Choix2_Peur:1
+Choix2_Time:0
+Choix2_Loot:NULL
+Choix2_Next:GrottePeur/eventGrottePeurO.txt

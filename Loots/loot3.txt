@@ -1,0 +1,10 @@
+Nom_Item:MediKit
+
+Val_Item_Alimentation:0
+Val_Item_Vie:3
+Val_Item_Epuisement:0
+Val_Item_Peur:0
+
+Add_Stuff:0
+
+pathImage:Medikit.png

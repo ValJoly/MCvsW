@@ -1,0 +1,20 @@
+Titre:.
+Description_Event:Vous voyez a nouveau.
+
+Choix1_Titre:Se frotter les yeux et continuer.
+Choix1_Alimentation:-1
+Choix1_Vie:0
+Choix1_Epuisement:1
+Choix1_Peur:-2
+Choix1_Time:1
+Choix1_Loot:NULL
+Choix1_Next:NULL
+
+Choix2_Titre:Prendre un temps de repos.
+Choix2_Alimentation:1
+Choix2_Vie:0
+Choix2_Epuisement:-3
+Choix2_Peur:0
+Choix2_Time:1
+Choix2_Loot:NULL
+Choix2_Next:NULL

@@ -1,0 +1,10 @@
+Nom_Item:Bouclier de Captain Wakando
+
+Val_Item_Alimentation:0
+Val_Item_Vie:0
+Val_Item_Epuisement:2
+Val_Item_Peur:-3
+
+Add_Stuff:0
+
+pathImage:cpt_Wakando_Shield.png
